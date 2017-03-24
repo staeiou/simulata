@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='simulata',
-      version='0.0.1',
+      version='0.0.2',
       description='Creating simulated datasets',
       url='http://github.com/staeiou/simulata',
       author='Stuart Geiger',

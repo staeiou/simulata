@@ -1,4 +1,4 @@
-simulata_version = "0.0.1"
+simulata_version = "0.0.2"
 
 def simulate_df(input_df, output_rows = 100, columns=True, exclude_columns=None):
     value_dict = {}
